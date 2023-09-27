@@ -1,9 +1,13 @@
 # I18N Persian PHP Library
 
 **Class Name:** I18N_Persian
+
 **Filename:** Persian.php
+
 **Author:** hanif.zekri@gmail.com
+
 **Fork of:** I18N_Arabic by Khaled Al-Sham'aa
+
 
 ## Description
 
